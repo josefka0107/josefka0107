@@ -12,7 +12,7 @@ IT & BI professional with **~10 years of experience in the retail industry**, fo
 - Automated reporting workflows to reduce processing time and improve reliability.
 - Development, configuration, and administration of **Centric Software C8 (PLM)**.
 - Experience supporting **ERP data migration and integration** projects (**Siesa Enterprise**).
-- Currently learning **SAP** (in progress).
+- Knowledge in SAP Master Data Governance & currently expanding SAP ERP expertise.
 
 ---
 
@@ -24,7 +24,7 @@ Profesional de IT y BI con **~10 años de experiencia en el sector retail**, enf
 - Automatización de reportes para reducir tiempos operativos y aumentar confiabilidad.
 - Desarrollo, configuración y administración de **Centric Software C8 (PLM)**.
 - Experiencia en proyectos de **migración e integración de datos ERP** (**Siesa Enterprise**).
-- Actualmente aprendiendo **SAP** (en curso).
+- Conocimiento en SAP Master Data Governance y actualmente ampliando mi experiencia en SAP ERP.
 
 ---
 
